@@ -1,0 +1,11 @@
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\bin\Debug\Ebay.com Web Scraper.exe.config
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\bin\Debug\Ebay.com Web Scraper.exe
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\bin\Debug\Ebay.com Web Scraper.pdb
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\obj\Debug\Ebay.com Web Scraper.csprojResolveAssemblyReference.cache
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\obj\Debug\Ebay.com Web Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\obj\Debug\Ebay.com Web Scraper.csproj.CopyComplete
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\obj\Debug\Ebay.com Web Scraper.exe
+C:\Users\Stefan Stojkovski\Desktop\Ebay.com Web Scraper\Ebay.com Web Scraper\obj\Debug\Ebay.com Web Scraper.pdb
